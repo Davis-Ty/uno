@@ -1,7 +1,7 @@
 Author: 
 Tyon Davis 
-?
-HOW
+
+HOW?
 • The game is played with a deck of cards that contains the following cards: 1-10 in four colors (red, blue, green, and yellow), "Skip" in four colors, "Reverse" in four colors, "+2" in four colors, "+4", "Color Change", "Designated Driver", and "+1 shot to random player".
 • The objective of the game is to be the first player to get rid of all their cards. Each player takes turns playing cards that match the color or number of the top card on the discard pile. If a player cannot play a card, they must draw a card from the deck. Special cards have different effects.
 • "Reverse": The direction of play is reversed.
